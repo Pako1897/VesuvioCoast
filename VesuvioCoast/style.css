@@ -1,0 +1,263 @@
+#intestazione
+{
+    width: 100%;
+    height: 75px;
+    background-color: white;
+    position: relative;
+}
+
+#logo
+ {
+     border-right: 1px solid silver;
+     width: 30%;
+     height: 75px;
+     position: absolute;
+ }
+
+ #menu
+ {
+     left: 30%;
+     width: 70%;
+     height: 75px;
+     position: absolute;
+ }
+
+#menu ul a li
+{
+    text-decoration: none;
+    color: black;
+    background-color: white;
+    padding: 8px;
+    border-radius: 8px;
+}
+
+#menu ul a:hover li
+{
+    color: white;
+    background-color: #ff6666;
+}
+
+#menu ul
+{
+    list-style-type: none;
+    margin-top: 19px;
+    margin-left: 0px;
+}
+
+ #menu ul li
+ {
+     float: left;
+     margin-left: 30px;
+ }
+
+.titoloDescrizione
+{
+    padding: 30px;
+    padding-bottom: 0px;
+    padding-left: 165px;
+    color:#eb2727;
+    font-size: 30px;
+}
+
+.descrizione
+{
+    padding: 30px;
+    padding-top: 0px;
+    padding-left: 165px;
+    color: black;
+    font-size:15px ;
+}
+
+#descrizione
+{
+    margin-left: auto;
+    margin-right: auto;;
+    background-color: white;
+    max-width: 1315px;
+}
+
+#titoloCitta
+{
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1300px;
+}
+
+#titoloCitta h1
+{
+    padding-left: 560px;
+    padding-right: auto;
+    background-color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+#citta
+{
+    background-color: white;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 1300px;
+    position: relative;
+}
+
+#napoli
+{
+    width: 34%;
+    height: 380px;
+    background-color: white ;
+    border: 1px solid silver;
+    position: absolute;
+    
+}
+
+#napoli p
+{
+    font-size: 12px;
+    margin-left: 3px;
+}
+
+#napoli .cardCitta p
+{
+    font-size: 15px;
+    margin-left: 7px;
+}
+
+
+.cardCitta
+{
+    background-color: rgba(0, 0, 0, 0.438);
+    left: 77%;
+    bottom: 80%;
+    position: absolute;
+    padding-right: 33px;
+    color: white;
+}
+
+
+#portici
+{
+    width: 34%;
+    height: 380px;
+    left: 33%;
+    background-color: white;
+    border: 1px solid silver;
+    position: absolute;
+}
+
+#portici p
+{
+    font-size: 15px;
+    margin-left: 3px;
+}
+
+#portici .cardCitta p
+{
+    font-size: 17px;
+    margin-left: 7px;
+}
+
+#ercolano
+{
+    width: 34%;
+    height: 380px;
+    left: 66%;
+    background-color: white;
+    border: 1px solid silver;
+    position: absolute;
+}
+
+#ercolano p
+{
+    font-size: 12px;
+    margin-left: 3px;
+}
+
+#ercolano .cardCitta p
+{
+    font-size: 15px;
+    margin-left: 1px;
+}
+
+#torredelgreco
+{
+    width: 33%;
+    height: 380px;
+    top: 380px;
+    background-color: white ;
+    border: 1px solid silver;
+    position: absolute;
+}
+
+#torredelgreco p
+{
+    font-size: 12px;
+    margin-left: 6px;
+}
+
+#torredelgreco .cardCitta p
+{
+    font-size: 12px;
+    margin-left: 1px;
+}
+
+#torreannunziata
+{
+    width: 33%;
+    height: 380px;
+    top: 380px;
+    left: 33%;
+    background-color: white;
+    border: 1px solid silver;
+    position: absolute;
+}
+
+#torreannunziata p
+{
+    font-size:12px;
+    margin-left: 6px;
+}
+
+#torreannunziata .cardCitta p
+{
+    font-size: 12px;
+    margin-left: 1px;
+}
+
+#castellamare
+{
+    width: 34%;
+    height: 380px;
+    top: 380px;
+    left: 66%;
+    background-color: white;
+    border: 1px solid silver;
+    position: absolute;
+}
+
+#castellamare p
+{
+    font-size: 12px;
+    margin-left: 6px;
+}
+
+#castellamare .cardCitta p
+{
+    font-size: 12px;
+    margin-left: 2px;
+}
+
+/*
+.accentra
+{
+    padding: 35px;
+    padding-top: 0px;
+}
+*/
+
+
+html
+{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    background-color:silver;
+    position: relative;
+}
